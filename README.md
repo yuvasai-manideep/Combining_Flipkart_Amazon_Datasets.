@@ -15,7 +15,7 @@ Models for combining Amazon and Flipkart datasets.
 
 •	NumPy
 
-    To combine two Datasets, Identification of columns with Unique values is necessary. It is possible to combine Two Dataset with the columns with Unique values.
+To combine two Datasets, Identification of columns with Unique values is necessary. It is possible to combine Two Dataset with the columns with Unique values.
     
 The datasets are taken from free open data sources. It is found that the columns “uniq_id”, “product_url”, “pid”, “description”, “product_specifications” are the columns with unique values.
 Here, I mention 4 models to combine the Datasets.
